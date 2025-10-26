@@ -36,7 +36,6 @@ const items = images
   `
 }).join("");
 
-console.log(items);
 
 gallery.insertAdjacentHTML("afterbegin", items);
 
